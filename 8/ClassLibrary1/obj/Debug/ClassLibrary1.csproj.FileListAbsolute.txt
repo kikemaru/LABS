@@ -1,0 +1,29 @@
+C:\Студенты\WindowsFormsApplication2\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Студенты\WindowsFormsApplication2\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Студенты\WindowsFormsApplication2\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Студенты\WindowsFormsApplication2\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Студенты\WindowsFormsApplication2\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\7\Desktop\WindowsFormsApplication2\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\7\Desktop\WindowsFormsApplication2\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\7\Desktop\WindowsFormsApplication2\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\7\Desktop\WindowsFormsApplication2\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\7\Desktop\WindowsFormsApplication2\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\7\Desktop\WindowsFormsApplication2\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Рамиль\Desktop\WindowsFormsApplication2\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Рамиль\Desktop\WindowsFormsApplication2\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Рамиль\Desktop\WindowsFormsApplication2\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\Рамиль\Desktop\WindowsFormsApplication2\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Рамиль\Desktop\WindowsFormsApplication2\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Рамиль\Desktop\WindowsFormsApplication2\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\vorob\OneDrive\Рабочий стол\WindowsFormsApplication2\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\vorob\OneDrive\Рабочий стол\WindowsFormsApplication2\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\vorob\OneDrive\Рабочий стол\WindowsFormsApplication2\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\vorob\OneDrive\Рабочий стол\WindowsFormsApplication2\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\vorob\OneDrive\Рабочий стол\WindowsFormsApplication2\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\vorob\OneDrive\Рабочий стол\WindowsFormsApplication2\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\ITKI_07_435\Desktop\WindowsFormsApplication2\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\ITKI_07_435\Desktop\WindowsFormsApplication2\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\ITKI_07_435\Desktop\WindowsFormsApplication2\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\ITKI_07_435\Desktop\WindowsFormsApplication2\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\ITKI_07_435\Desktop\WindowsFormsApplication2\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\ITKI_07_435\Desktop\WindowsFormsApplication2\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

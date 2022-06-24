@@ -1,0 +1,63 @@
+C:\Users\mi200\Desktop\2 КУРС\2 семестр\ОАИП\10\2\SortStrategy-master\bin\Debug\WindowsFormsApp9.exe.config
+C:\Users\mi200\Desktop\2 КУРС\2 семестр\ОАИП\10\2\SortStrategy-master\bin\Debug\WindowsFormsApp9.exe
+C:\Users\mi200\Desktop\2 КУРС\2 семестр\ОАИП\10\2\SortStrategy-master\bin\Debug\WindowsFormsApp9.pdb
+C:\Users\mi200\Desktop\2 КУРС\2 семестр\ОАИП\10\2\SortStrategy-master\obj\Debug\WindowsFormsApp9.csproj.AssemblyReference.cache
+C:\Users\mi200\Desktop\2 КУРС\2 семестр\ОАИП\10\2\SortStrategy-master\obj\Debug\WindowsFormsApp9.csproj.SuggestedBindingRedirects.cache
+C:\Users\mi200\Desktop\2 КУРС\2 семестр\ОАИП\10\2\SortStrategy-master\obj\Debug\WindowsFormsApp9.ComparativeAnalysis.resources
+C:\Users\mi200\Desktop\2 КУРС\2 семестр\ОАИП\10\2\SortStrategy-master\obj\Debug\WindowsFormsApp9.Form1.resources
+C:\Users\mi200\Desktop\2 КУРС\2 семестр\ОАИП\10\2\SortStrategy-master\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+C:\Users\mi200\Desktop\2 КУРС\2 семестр\ОАИП\10\2\SortStrategy-master\obj\Debug\WindowsFormsApp9.SetGenerator.resources
+C:\Users\mi200\Desktop\2 КУРС\2 семестр\ОАИП\10\2\SortStrategy-master\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.cache
+C:\Users\mi200\Desktop\2 КУРС\2 семестр\ОАИП\10\2\SortStrategy-master\obj\Debug\WindowsFormsApp9.csproj.CoreCompileInputs.cache
+C:\Users\mi200\Desktop\2 КУРС\2 семестр\ОАИП\10\2\SortStrategy-master\obj\Debug\WindowsFormsApp9.exe
+C:\Users\mi200\Desktop\2 КУРС\2 семестр\ОАИП\10\2\SortStrategy-master\obj\Debug\WindowsFormsApp9.pdb
+C:\Users\Тимур\source\repos\SortStrategy-master\bin\Debug\WindowsFormsApp9.exe.config
+C:\Users\Тимур\source\repos\SortStrategy-master\bin\Debug\WindowsFormsApp9.exe
+C:\Users\Тимур\source\repos\SortStrategy-master\bin\Debug\WindowsFormsApp9.pdb
+C:\Users\Тимур\source\repos\SortStrategy-master\obj\Debug\WindowsFormsApp9.csproj.AssemblyReference.cache
+C:\Users\Тимур\source\repos\SortStrategy-master\obj\Debug\WindowsFormsApp9.csproj.SuggestedBindingRedirects.cache
+C:\Users\Тимур\source\repos\SortStrategy-master\obj\Debug\WindowsFormsApp9.ComparativeAnalysis.resources
+C:\Users\Тимур\source\repos\SortStrategy-master\obj\Debug\WindowsFormsApp9.Form1.resources
+C:\Users\Тимур\source\repos\SortStrategy-master\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+C:\Users\Тимур\source\repos\SortStrategy-master\obj\Debug\WindowsFormsApp9.SetGenerator.resources
+C:\Users\Тимур\source\repos\SortStrategy-master\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.cache
+C:\Users\Тимур\source\repos\SortStrategy-master\obj\Debug\WindowsFormsApp9.csproj.CoreCompileInputs.cache
+C:\Users\Тимур\source\repos\SortStrategy-master\obj\Debug\WindowsFormsApp9.exe
+C:\Users\Тимур\source\repos\SortStrategy-master\obj\Debug\WindowsFormsApp9.pdb
+C:\Users\KIT_07_113\Desktop\ВНУТРЕННЯЯ СОРТИРОВКА ДАННЫХ\bin\Debug\WindowsFormsApp9.exe.config
+C:\Users\KIT_07_113\Desktop\ВНУТРЕННЯЯ СОРТИРОВКА ДАННЫХ\bin\Debug\WindowsFormsApp9.exe
+C:\Users\KIT_07_113\Desktop\ВНУТРЕННЯЯ СОРТИРОВКА ДАННЫХ\bin\Debug\WindowsFormsApp9.pdb
+C:\Users\KIT_07_113\Desktop\ВНУТРЕННЯЯ СОРТИРОВКА ДАННЫХ\obj\Debug\WindowsFormsApp9.csproj.AssemblyReference.cache
+C:\Users\KIT_07_113\Desktop\ВНУТРЕННЯЯ СОРТИРОВКА ДАННЫХ\obj\Debug\WindowsFormsApp9.ComparativeAnalysis.resources
+C:\Users\KIT_07_113\Desktop\ВНУТРЕННЯЯ СОРТИРОВКА ДАННЫХ\obj\Debug\WindowsFormsApp9.Form1.resources
+C:\Users\KIT_07_113\Desktop\ВНУТРЕННЯЯ СОРТИРОВКА ДАННЫХ\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+C:\Users\KIT_07_113\Desktop\ВНУТРЕННЯЯ СОРТИРОВКА ДАННЫХ\obj\Debug\WindowsFormsApp9.SetGenerator.resources
+C:\Users\KIT_07_113\Desktop\ВНУТРЕННЯЯ СОРТИРОВКА ДАННЫХ\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.cache
+C:\Users\KIT_07_113\Desktop\ВНУТРЕННЯЯ СОРТИРОВКА ДАННЫХ\obj\Debug\WindowsFormsApp9.csproj.CoreCompileInputs.cache
+C:\Users\KIT_07_113\Desktop\ВНУТРЕННЯЯ СОРТИРОВКА ДАННЫХ\obj\Debug\WindowsFormsApp9.exe
+C:\Users\KIT_07_113\Desktop\ВНУТРЕННЯЯ СОРТИРОВКА ДАННЫХ\obj\Debug\WindowsFormsApp9.pdb
+C:\Users\ITKI_07_435\Downloads\sortirovka\bin\Debug\WindowsFormsApp9.exe.config
+C:\Users\ITKI_07_435\Downloads\sortirovka\bin\Debug\WindowsFormsApp9.exe
+C:\Users\ITKI_07_435\Downloads\sortirovka\bin\Debug\WindowsFormsApp9.pdb
+C:\Users\ITKI_07_435\Downloads\sortirovka\obj\Debug\WindowsFormsApp9.csproj.AssemblyReference.cache
+C:\Users\ITKI_07_435\Downloads\sortirovka\obj\Debug\WindowsFormsApp9.ComparativeAnalysis.resources
+C:\Users\ITKI_07_435\Downloads\sortirovka\obj\Debug\WindowsFormsApp9.Form1.resources
+C:\Users\ITKI_07_435\Downloads\sortirovka\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+C:\Users\ITKI_07_435\Downloads\sortirovka\obj\Debug\WindowsFormsApp9.SetGenerator.resources
+C:\Users\ITKI_07_435\Downloads\sortirovka\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.cache
+C:\Users\ITKI_07_435\Downloads\sortirovka\obj\Debug\WindowsFormsApp9.csproj.CoreCompileInputs.cache
+C:\Users\ITKI_07_435\Downloads\sortirovka\obj\Debug\WindowsFormsApp9.exe
+C:\Users\ITKI_07_435\Downloads\sortirovka\obj\Debug\WindowsFormsApp9.pdb
+C:\Users\Динар\Downloads\sortirovka\bin\Debug\WindowsFormsApp9.exe.config
+C:\Users\Динар\Downloads\sortirovka\bin\Debug\WindowsFormsApp9.exe
+C:\Users\Динар\Downloads\sortirovka\bin\Debug\WindowsFormsApp9.pdb
+C:\Users\Динар\Downloads\sortirovka\obj\Debug\WindowsFormsApp9.csproj.AssemblyReference.cache
+C:\Users\Динар\Downloads\sortirovka\obj\Debug\WindowsFormsApp9.csproj.SuggestedBindingRedirects.cache
+C:\Users\Динар\Downloads\sortirovka\obj\Debug\WindowsFormsApp9.ComparativeAnalysis.resources
+C:\Users\Динар\Downloads\sortirovka\obj\Debug\WindowsFormsApp9.Form1.resources
+C:\Users\Динар\Downloads\sortirovka\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+C:\Users\Динар\Downloads\sortirovka\obj\Debug\WindowsFormsApp9.SetGenerator.resources
+C:\Users\Динар\Downloads\sortirovka\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.cache
+C:\Users\Динар\Downloads\sortirovka\obj\Debug\WindowsFormsApp9.csproj.CoreCompileInputs.cache
+C:\Users\Динар\Downloads\sortirovka\obj\Debug\WindowsFormsApp9.exe
+C:\Users\Динар\Downloads\sortirovka\obj\Debug\WindowsFormsApp9.pdb

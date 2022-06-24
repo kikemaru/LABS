@@ -1,0 +1,39 @@
+C:\Users\Динар\Downloads\sortirovka\bin\Debug\WindowsFormsApp9.exe.config
+C:\Users\Динар\Downloads\sortirovka\bin\Debug\WindowsFormsApp9.exe
+C:\Users\Динар\Downloads\sortirovka\bin\Debug\WindowsFormsApp9.pdb
+C:\Users\Динар\Downloads\sortirovka\obj\Debug\viborSortQuickSort.csproj.AssemblyReference.cache
+C:\Users\Динар\Downloads\sortirovka\obj\Debug\viborSortQuickSort.csproj.SuggestedBindingRedirects.cache
+C:\Users\Динар\Downloads\sortirovka\obj\Debug\viborSortQuickSort.ComparativeAnalysis.resources
+C:\Users\Динар\Downloads\sortirovka\obj\Debug\viborSortQuickSort.Form1.resources
+C:\Users\Динар\Downloads\sortirovka\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+C:\Users\Динар\Downloads\sortirovka\obj\Debug\viborSortQuickSort.SetGenerator.resources
+C:\Users\Динар\Downloads\sortirovka\obj\Debug\viborSortQuickSort.csproj.GenerateResource.cache
+C:\Users\Динар\Downloads\sortirovka\obj\Debug\viborSortQuickSort.csproj.CoreCompileInputs.cache
+C:\Users\Динар\Downloads\sortirovka\obj\Debug\WindowsFormsApp9.exe
+C:\Users\Динар\Downloads\sortirovka\obj\Debug\WindowsFormsApp9.pdb
+C:\Users\Динар\Downloads\Лабораторная работа №4 (ОАиП)\bin\Debug\WindowsFormsApp9.exe.config
+C:\Users\Динар\Downloads\Лабораторная работа №4 (ОАиП)\bin\Debug\WindowsFormsApp9.exe
+C:\Users\Динар\Downloads\Лабораторная работа №4 (ОАиП)\bin\Debug\WindowsFormsApp9.pdb
+C:\Users\Динар\Downloads\Лабораторная работа №4 (ОАиП)\obj\Debug\viborSortQuickSort.csproj.AssemblyReference.cache
+C:\Users\Динар\Downloads\Лабораторная работа №4 (ОАиП)\obj\Debug\viborSortQuickSort.csproj.SuggestedBindingRedirects.cache
+C:\Users\Динар\Downloads\Лабораторная работа №4 (ОАиП)\obj\Debug\viborSortQuickSort.ComparativeAnalysis.resources
+C:\Users\Динар\Downloads\Лабораторная работа №4 (ОАиП)\obj\Debug\viborSortQuickSort.Form1.resources
+C:\Users\Динар\Downloads\Лабораторная работа №4 (ОАиП)\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+C:\Users\Динар\Downloads\Лабораторная работа №4 (ОАиП)\obj\Debug\viborSortQuickSort.SetGenerator.resources
+C:\Users\Динар\Downloads\Лабораторная работа №4 (ОАиП)\obj\Debug\viborSortQuickSort.csproj.GenerateResource.cache
+C:\Users\Динар\Downloads\Лабораторная работа №4 (ОАиП)\obj\Debug\viborSortQuickSort.csproj.CoreCompileInputs.cache
+C:\Users\Динар\Downloads\Лабораторная работа №4 (ОАиП)\obj\Debug\WindowsFormsApp9.exe
+C:\Users\Динар\Downloads\Лабораторная работа №4 (ОАиП)\obj\Debug\WindowsFormsApp9.pdb
+C:\Users\timur\OneDrive\Рабочий стол\Лабораторная работа №4 (ОАиП)\obj\Debug\viborSortQuickSort.csproj.AssemblyReference.cache
+C:\Users\timur\OneDrive\Рабочий стол\Лабораторная работа №4 (ОАиП)\obj\Debug\viborSortQuickSort.csproj.SuggestedBindingRedirects.cache
+C:\Users\timur\OneDrive\Рабочий стол\Лабораторная работа №4 (ОАиП)\obj\Debug\viborSortQuickSort.ComparativeAnalysis.resources
+C:\Users\timur\OneDrive\Рабочий стол\Лабораторная работа №4 (ОАиП)\obj\Debug\viborSortQuickSort.Form1.resources
+C:\Users\timur\OneDrive\Рабочий стол\Лабораторная работа №4 (ОАиП)\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+C:\Users\timur\OneDrive\Рабочий стол\Лабораторная работа №4 (ОАиП)\obj\Debug\viborSortQuickSort.SetGenerator.resources
+C:\Users\timur\OneDrive\Рабочий стол\Лабораторная работа №4 (ОАиП)\obj\Debug\viborSortQuickSort.csproj.GenerateResource.cache
+C:\Users\timur\OneDrive\Рабочий стол\Лабораторная работа №4 (ОАиП)\obj\Debug\viborSortQuickSort.csproj.CoreCompileInputs.cache
+C:\Users\timur\OneDrive\Рабочий стол\Лабораторная работа №4 (ОАиП)\obj\Debug\WindowsFormsApp9.exe
+C:\Users\timur\OneDrive\Рабочий стол\Лабораторная работа №4 (ОАиП)\obj\Debug\WindowsFormsApp9.pdb
+C:\Users\timur\OneDrive\Рабочий стол\Лабораторная работа №4 (ОАиП)\bin\Debug\WindowsFormsApp9.exe.config
+C:\Users\timur\OneDrive\Рабочий стол\Лабораторная работа №4 (ОАиП)\bin\Debug\WindowsFormsApp9.exe
+C:\Users\timur\OneDrive\Рабочий стол\Лабораторная работа №4 (ОАиП)\bin\Debug\WindowsFormsApp9.pdb

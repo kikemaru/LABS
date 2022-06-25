@@ -1,2 +1,2 @@
 # LABS
-Laboratory work on oaip
+Laboratory work
